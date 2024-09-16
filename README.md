@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by: Danish Nicho N
+Developed by: DANISH NICHO N
 Registeration Number :  212222040030
 */
 ```
